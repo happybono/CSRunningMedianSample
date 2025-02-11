@@ -20,3 +20,9 @@ C# project to determine the running median by means of a data on the listbox con
 
 ## Known Issues
 - Results may not be accurate when you use less than the 5 numeric data samples.
+  
+## Copyright
+Copyright ⓒ HappyBono 2022 - 2025. All rights Reserved.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
