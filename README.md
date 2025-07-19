@@ -6,7 +6,7 @@ The **AllMedian** method applies the filter across every position by mirroring i
 For each window, values are copied into a temporary array, sorted via a recursive Quicksort routine, and the third element (the median) is selected. Users add source data via the Add button and trigger filtering with the Calculate button, after which results appear in a separate ListBox. Internal data lists are cleared after each run to guarantee consistent behavior on subsequent executions. A simple UI makes it easy to visualize the smoothing effect in real time. <br><br>
 
 
-> **Disclaimer :** This implementation uses a plain (equal-weight) median filter. For weighted-median calculations and a wider range of smoothing / correction methods, please refer to the **[SonataSmooth](https://github.com/sonatasmooth/SonataSmooth)** project.
+> **Disclaimer :** This implementation uses a plain (equal-weight) median filter. For weighted-median calculations and a wider range of smoothing / correction methods, please refer to the **[SonataSmooth](https://github.com/happybono/SonataSmooth)** project.
 
 ## What's New
 <details>
